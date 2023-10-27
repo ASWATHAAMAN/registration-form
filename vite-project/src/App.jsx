@@ -14,7 +14,8 @@ const App = () => {
   labelTen={`Address`}
   labelEleven={`State`}
   labelTwelve={`Pin Code`}
-  labelThirteen={`Hobbies`}/>;
+  labelThirteen={`Hobbies`}
+  labelFourteen={`Upload Photo`}/>;
 };
 
 export default App;
